@@ -1,0 +1,15 @@
+echo Fichero de ejemplo de secuencia de mandatos para el programa cargador
+load Plugin_Contador/plugin_contador.so
+start
+stop 0
+resume 0
+start
+start
+stop 1
+stop 2
+resume 2
+resume 1
+finish 0
+finish 1
+finish 2
+quit

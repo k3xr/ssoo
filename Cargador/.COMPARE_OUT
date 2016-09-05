@@ -1,0 +1,39 @@
+Este fichero carga el plugin Contador				Este fichero carga el plugin Contador
+							   >	**********Funcion pendiente de implementar
+Modulo Plugin_Contador/plugin_contador.so cargado correc	Modulo Plugin_Contador/plugin_contador.so cargado correc
+Arrancamos 2 instancias, una por segundo			Arrancamos 2 instancias, una por segundo
+							   >	**********Funcion pendiente de implementar
+Modulo iniciado: 0						Modulo iniciado: 0
+Numero de modulos iniciados: 1				   |	Numero de modulos iniciados: 0
+Modulo iniciado: 1					   |	**********Funcion pendiente de implementar
+Numero de modulos iniciados: 2				   |	**********Funcion pendiente de implementar
+							   >	Modulo iniciado: 0
+							   >	Numero de modulos iniciados: 0
+							   >	**********Funcion pendiente de implementar
+Esperamos 5 segundos						Esperamos 5 segundos
+							   >	**********Funcion pendiente de implementar
+Paramos la primera						Paramos la primera
+							   >	**********Funcion pendiente de implementar
+Modulo detenido: 0						Modulo detenido: 0
+Esperamos 3 segundos						Esperamos 3 segundos
+							   >	**********Funcion pendiente de implementar
+Paramos la segunda						Paramos la segunda
+Modulo detenido: 1					   |	**********Funcion pendiente de implementar
+							   >	Modulo detenido: 0
+Esperamos 4 segundos						Esperamos 4 segundos
+							   >	**********Funcion pendiente de implementar
+Re-arrancamos la primera					Re-arrancamos la primera
+							   >	**********Funcion pendiente de implementar
+Modulo reiniciado: 0						Modulo reiniciado: 0
+Esperamos 2 segundos						Esperamos 2 segundos
+							   >	**********Funcion pendiente de implementar
+Re-arrancamos la segunda					Re-arrancamos la segunda
+Modulo reiniciado: 1					   |	**********Funcion pendiente de implementar
+							   >	Modulo reiniciado: 0
+Esperamos 5 segundos y fin					Esperamos 5 segundos y fin
+Modulo finalizado: 0 (10)				   |	**********Funcion pendiente de implementar
+Modulo finalizado: 1 (10)				   |	**********Funcion pendiente de implementar
+							   >	Modulo finalizado: 0 (0)
+							   >	**********Funcion pendiente de implementar
+							   >	Modulo finalizado: 0 (0)
+Fin								Fin
